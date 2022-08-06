@@ -1,9 +1,5 @@
 """
-<<<<<<< HEAD
-The code is written for COMPSCI235 Lab 6 Git. 
-=======
-The code is written for COMPSCI235 Lab 3 Git. 
->>>>>>> refs/remotes/origin/main
+The code is written for COMPSCI235 Lab 2 Git. 
 
 - You should work as a pair for this activity.
 - Let the student who creates the repo be A, another student be B.
